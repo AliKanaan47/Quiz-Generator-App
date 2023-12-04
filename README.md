@@ -12,9 +12,9 @@ pip install os langchain streamlit
 Make sure to replace openai_api_key with your valid OpenAI GPT-3 API key.
 
 To run the app, execute the script:
-
+```
 streamlit run your_script_name.py
-
+```
 
 App Workflow
 
