@@ -4,9 +4,9 @@ This is a simple Quiz Generator App built using Python and Streamlit. The app le
 
 How to Run the App
 Before running the app, ensure you have the necessary libraries installed. You can install them using the following command:
-
+```
 pip install os langchain streamlit
-
+```
 
 
 Make sure to replace openai_api_key with your valid OpenAI GPT-3 API key.
